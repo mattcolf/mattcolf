@@ -9,7 +9,7 @@ Interested in getting in touch? Drop me a secure note on [Keybase](https://keyba
 - [LinkedIn](http://www.linkedin.com/in/mattcolf)
 - [Twitter](https://twitter.com/mattcolf)
 - [Letterboxd](https://letterboxd.com/mattcolf/)
-- [Facebook](https://www.facebook.com/mattcolf) (no professional coneections, please)
+- [Facebook](https://www.facebook.com/mattcolf) (no professional connections, please)
 
 ## Looking for a new job?
 My team at [StockX](https://github.com/stockx) is [hiring](https://stockx.com/jobs). We build the technology that powers the worldwide shipping, logistics, and distribution network behind the [Stock Market of Things](https://stockx.com/how-it-works). Our truly global marketplace is driven by technology like Typescript, React, Kafka, Docker, Kubernetes, AWS, Golang, GraphQL, Kotlin, Swift, and more. Learn [more](https://youtu.be/w5vE1MeMcbA) [about](https://youtu.be/m3tHqllKzDw) [us](https://youtu.be/EUPzuVNmmC8) and get in touch!
